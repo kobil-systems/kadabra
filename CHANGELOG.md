@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.6.1
+
+**Fixed**
+
+- Close connection on ssl error and log reason
+
 ## v0.6.0
 
 **Security**
